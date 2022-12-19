@@ -1,3 +1,1 @@
-# fraud-detection
-
-learn-intro-to-blockchain-and-solidity
+# learn-intro-to-blockchain-and-solidity
